@@ -12,6 +12,8 @@ Health system that decreases when hit, meaning that the enemies can kill you.
 There will be meters showing health that decrease when you're hit. 
 ## Scope: 
 Hitting and killing one enemy. 
+## Perspective:
+The game will be 2D, in 3rd person view. 
 
 ## Game: [Name undecided]
 The player’s goal is to kill all of the enemies without dying. 
