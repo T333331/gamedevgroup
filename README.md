@@ -15,7 +15,7 @@ Hitting and killing one enemy.
 ## Perspective:
 The game will be 2D, in 3rd person view. 
 
-## Game: [Forest of Beats (Placeholder)]
+## Game: [Forest of Beasts (Placeholder)]
 The player’s goal is to kill all of the enemies without dying. 
 
 The player moves with the arrow keys, and clicks to attack. 
