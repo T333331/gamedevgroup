@@ -29,4 +29,6 @@ We should figure out how to implement the animations for attacks, and how to kee
 
 # Game Inspiration/Example:
 
+Prince of Persia
+
 ![prince of persia](https://github.com/T333331/gamedevgroup/blob/main/images/prince%20of%20persia%20combat.gif)
