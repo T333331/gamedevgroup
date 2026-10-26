@@ -3,7 +3,7 @@
 ## Player: 
 The player is an unnamed fighter.
 ## Goal: 
-The goal of the game is for the player to kill all of the enemies they're fighting, and to defeat the boss at the end. 
+The goal of the game is for the player to kill all of the enemies they're fighting, progress through the forest, and to defeat the boss at the end. 
 ## Core action: 
 The gameplay loop is fighting enemies and progressing to the next one (in a linear fashion).
 ## Challenge: 
