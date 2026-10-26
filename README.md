@@ -25,4 +25,6 @@ Feedback is given by health bars that show both the player and enemy health.
 We should figure out how to implement the animations for the game, and how to keep the enemies progressing naturally until you reach a boss. 
 
 
+# Game Inspiration/Example:
+
 ![prince of persia](https://github.com/T333331/gamedevgroup/blob/main/images/prince%20of%20persia%20combat.gif)
