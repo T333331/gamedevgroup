@@ -1,4 +1,4 @@
-# gamedevgroup
+# Game Dev: Group 3
 
 # Player: 
 The player is a fighter in third person view. 
