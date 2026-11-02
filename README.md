@@ -1,6 +1,6 @@
 # Game Dev: Group 3
 
-### Forest of Beasts (Placeholder)
+### Forest of Beasts 
 
 ## Player: 
 The player is an unnamed fighter.
