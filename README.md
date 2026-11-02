@@ -15,6 +15,7 @@ The goal of the game is for the player to kill all of the enemies they're fighti
 ### Enemies:
 
 ![enemyuno](https://github.com/T333331/gamedevgroup/blob/main/images/enemy%201%20animated%20in%20128%20pixels.gif?raw=true)
+![enemydos](https://github.com/T333331/gamedevgroup/blob/main/images/Jello.gif?raw=true)
 
 ## Core action: 
 The gameplay loop is fighting enemies and progressing to the next one (in a linear fashion).
