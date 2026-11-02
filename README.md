@@ -41,7 +41,7 @@ ________________________
 
 # GUI Mockup: 
  ![game mockup](https://github.com/T333331/gamedevgroup/blob/main/images/GUIimage.jpg?raw=true)
-
+_______________________
 ### Pitch Document
 
 ([Pitch Document (Group 3)](https://docs.google.com/document/d/1uviuY880l4IykHoEFrVYQckRX1fBgzq2PkLnaWorPt4/edit?tab=t.0)) 
