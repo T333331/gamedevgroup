@@ -35,6 +35,8 @@ Prince of Persia
 
 ![prince of persia](https://github.com/T333331/gamedevgroup/blob/main/images/prince%20of%20persia%20combat.gif)
 
+________________________
+
 # GUI Mockup: 
  ![game mockup](https://github.com/T333331/gamedevgroup/blob/main/images/GUIimage.jpg?raw=true)
 
