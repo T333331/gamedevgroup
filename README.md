@@ -45,3 +45,8 @@ _______________________
 ### Pitch Document
 
 ([Pitch Document (Group 3)](https://docs.google.com/document/d/1uviuY880l4IykHoEFrVYQckRX1fBgzq2PkLnaWorPt4/edit?tab=t.0)) 
+_______________________
+### Class Diagram
+
+![diagram](https://github.com/T333331/gamedevgroup/blob/main/images/ForestOfBeastsDiagram.jpg?raw=true)
+_______________________
