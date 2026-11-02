@@ -8,6 +8,10 @@ The player is an unnamed fighter.
 ![sprite](https://github.com/T333331/gamedevgroup/blob/main/images/Sprite%20in%20128%20pixels.png)
 ## Goal: 
 The goal of the game is for the player to kill all of the enemies they're fighting, progress through the forest, and to defeat the boss at the end. 
+### Enemies:
+
+![enemyuno](https://github.com/T333331/gamedevgroup/blob/main/images/enemy.png?raw=true)
+
 ## Core action: 
 The gameplay loop is fighting enemies and progressing to the next one (in a linear fashion).
 ## Challenge: 
