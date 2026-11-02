@@ -6,6 +6,7 @@
 The player is an unnamed fighter.
 
 ![sprite](https://github.com/T333331/gamedevgroup/blob/main/images/Sprite%20in%20128%20pixels.png)
+![animation](https://github.com/T333331/gamedevgroup/blob/main/images/forward%20walk%20animated%20in%20128%20pixels.gif?raw=true)
 ## Goal: 
 The goal of the game is for the player to kill all of the enemies they're fighting, progress through the forest, and to defeat the boss at the end. 
 ### Enemies:
