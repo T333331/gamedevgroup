@@ -15,7 +15,12 @@ p1 = loadImage("");
 }
 
 // Member methods
-void display() {}
+void display() {
+// TODO: replace circle with gif somehow :P
+// image(e1,x,y);
+ fill(33,222,23);
+ ellipse(x,y,w,h);
+}
 void attack() {}
 void fire() {}
 void jump() {}
