@@ -71,3 +71,8 @@ _______________________
 
 ![diagram](https://github.com/T333331/gamedevgroup/blob/main/images/ForestOfBeastsDiagram.jpg?raw=true)
 _______________________
+### Class Shells
+
+Diana:
+
+Responsible for the item class. This class has to give the player items and powerups to use throughout the run. It is tied to the enemy and player classes, as it drops when an enemy dies, and needs to be pick up by a player to use. 
