@@ -3,8 +3,8 @@ Item it1;
 
 
 void setup() {
-size(500,500);
-it1 = new Item();
+size(100,100);
+it1 = new Item(50,50);
 }
 
 void draw() {
@@ -15,21 +15,21 @@ it1.display();
 
 
 // Diana Neal 
+class Item {
 int x, y, w, h;
   PImage i1;
 
-class Item {
-  Item() {
+  Item(int x, int y) {
     // TODO: add item types by defining them as characters 
+this.x = x;
+this.y = y;
 w = 50;
 h = 50;
 i1 = loadImage("Item.png"); 
 }
 
   void display() {
-    // TODO: add display behavior to the class, aka put in an image.
-    fill(224,83,55);
-    rect(50,50,50,50);
+   image(i1,x,y);
   }
 
   void effect () {
