@@ -22,6 +22,8 @@ The goal of the game is for the player to kill all of the enemies they're fighti
 The gameplay loop is fighting enemies and progressing to the next one (in a linear fashion).
 ## Challenge: 
 Health system that decreases when hit, meaning that the enemies can kill you. 
+
+![health](https://github.com/T333331/gamedevgroup/blob/main/images/health.png?raw=true)
 ## Feedback: 
 There will be meters showing health that decrease when you're hit. 
 ## Scope: 
