@@ -30,7 +30,7 @@ There will be icons on the bottom half of the screen, showing a health bar that 
 ![yellow](https://github.com/T333331/gamedevgroup/blob/main/images/healthyellow.png?raw=true)
 ![red](https://github.com/T333331/gamedevgroup/blob/main/images/healthred.png?raw=true)
 
-There will potentially be a small inventory for items and power-ups shown on the screen as well. 
+If we have enough time, there will be a small inventory for items and power-ups shown on the screen as well. 
 ## Scope: 
 Hitting and killing one enemy. 
 ## Perspective:
