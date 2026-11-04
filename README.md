@@ -11,7 +11,7 @@ The player is an unnamed fighter.
 ![otherotheranimation](https://github.com/T333331/gamedevgroup/blob/main/images/sideway%20walk%20(right)%20in%20128%20pixels.gif?raw=true)
 ![gifnumerofour](https://github.com/T333331/gamedevgroup/blob/main/images/Backward%20walk%20animated%20in%20128%20pixels.gif?raw=true)
 ## Goal: 
-The goal of the game is for the player to kill all of the enemies they're fighting, progress through the forest, and to defeat the boss at the end. 
+The goal of the game is for the player to kill all of the enemies that get in their way, progress through the entire forest, and to eventually defeat the boss at the end of the game. 
 ### Enemies:
 
 ![enemyuno](https://github.com/T333331/gamedevgroup/blob/main/images/enemy%201%20animated%20in%20128%20pixels.gif?raw=true)
@@ -19,30 +19,33 @@ The goal of the game is for the player to kill all of the enemies they're fighti
 ![enemytres](https://github.com/T333331/gamedevgroup/blob/main/images/Zorb.gif?raw=true)
 
 ## Core action: 
-The gameplay loop is fighting enemies and progressing to the next one (in a linear fashion).
+The core gameplay loop is fighting enemies, picking up items/power-ups,  and progressing to the next area in the forest when all of the enemies have been killed.
 ## Challenge: 
-Health system that decreases when hit, meaning that the enemies can kill you. 
+The challenge of the game is a health system that decreases when the player is hit, meaning that the enemies can kill you and you would have to start over. 
 
 ![health](https://github.com/T333331/gamedevgroup/blob/main/images/health.png?raw=true)
 ## Feedback: 
-There will be meters showing health that decrease when you're hit. 
-![yellow]()
+There will be icons on the bottom half of the screen, showing a health bar that decreases when you're hit. 
+
+![yellow](https://github.com/T333331/gamedevgroup/blob/main/images/healthyellow.png?raw=true)
 ![red](https://github.com/T333331/gamedevgroup/blob/main/images/healthred.png?raw=true)
+
+There will potentially be a small inventory for items and power-ups shown on the screen as well. 
 ## Scope: 
 Hitting and killing one enemy. 
 ## Perspective:
-The game will be 2D, in 3rd person view. 
+The game will be 2D, in 3rd person view. It will either be a side scroll, or have enemies coming from any direction at the player. 
 
 ## Game:
-The player’s goal is to kill all of the enemies without dying. 
+* The player’s goal is to kill all of the enemies without dying. 
 
-The player moves with the arrow keys, and clicks to attack. 
+* The player moves with the arrow keys, and clicks to attack. 
 
-The challenge in this game are enemies the player has to fight.
+* The challenge in this game are enemies the player has to fight.
 
-Feedback is given by health bars that show both the player and enemy health.
+* Feedback is given by health bars that show both the player and enemy health.
 
-We should figure out how to implement the animations for attacks, and how to keep the enemies progressing naturally until you reach a boss. 
+* We should figure out how to implement the animations for attacks, and how to keep the enemies progressing naturally until you reach a boss. 
 
 
 # Game Inspiration/Example:
@@ -53,14 +56,18 @@ Prince of Persia
 
 ________________________
 
-# GUI Mockup: 
+## GUI Mockup: 
+(Zoe Abraham) 
+
  ![game mockup](https://github.com/T333331/gamedevgroup/blob/main/images/GUIimage.jpg?raw=true)
 _______________________
-### Pitch Document
+## Pitch Document: 
+(Alan Huang) 
 
-([Pitch Document (Group 3)](https://docs.google.com/document/d/1uviuY880l4IykHoEFrVYQckRX1fBgzq2PkLnaWorPt4/edit?tab=t.0)) 
+[Pitch Document (Group 3)](https://docs.google.com/document/d/1uviuY880l4IykHoEFrVYQckRX1fBgzq2PkLnaWorPt4/edit?tab=t.0)
 _______________________
-### Class Diagram
+## Class Diagram: 
+(Gideon Gordon)
 
 ![diagram](https://github.com/T333331/gamedevgroup/blob/main/images/ForestOfBeastsDiagram.jpg?raw=true)
 _______________________
