@@ -26,6 +26,8 @@ Health system that decreases when hit, meaning that the enemies can kill you.
 ![health](https://github.com/T333331/gamedevgroup/blob/main/images/health.png?raw=true)
 ## Feedback: 
 There will be meters showing health that decrease when you're hit. 
+![yellow]()
+![red](https://github.com/T333331/gamedevgroup/blob/main/images/healthred.png?raw=true)
 ## Scope: 
 Hitting and killing one enemy. 
 ## Perspective:
