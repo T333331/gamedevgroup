@@ -3,7 +3,7 @@ Player p1;
 
 void setup() {
   size(displayWidth,displayHeight);
-  p1 = new Player (100,200)
+  p1 = new Player (100,200);
 
 }
 
