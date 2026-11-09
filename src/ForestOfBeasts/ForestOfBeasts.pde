@@ -22,8 +22,8 @@ void draw() {
 CamX= p1.x - width / 2;
 CamY= p1.y - height / 2;  // make it so that player is in the center of the screen
 
-CamX = constrain(CamX, 0, worldW - width);
-CamY = constrain(CamY, 0 worldH - height); // Keeps the camera only showing whats inside the world
+CamX = constrain(CamX, 0, WorldW - width);
+CamY = constrain(CamY, 0 WorldH - height); // Keeps the camera only showing whats inside the world
 // constrain used to ensure that value dosent exceed max and minimum - got the definition from processing.org
 
 translate(-CamX, -CamY); // slide the world oposite to the camera(Cam) movement so the the player seems to move along the world
