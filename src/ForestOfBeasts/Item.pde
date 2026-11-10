@@ -2,15 +2,15 @@
 Item it1; 
 
 
-void setup() {
-size(100,100);
-it1 = new Item(50,50);
-}
+//void setup() {
+//size(100,100);
+//it1 = new Item(50,50);
+//}
 
-void draw() {
-background(123);
-it1.display();
-}
+//void draw() {
+//background(123);
+//it1.display();
+//}     // srry there was already a void setup and void draw in the main tab and the program wont run if theres multiple void setup and draws.
 
 
 
