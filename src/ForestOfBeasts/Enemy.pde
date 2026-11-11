@@ -22,8 +22,10 @@ void display() {
  ellipse(x,y,w,h);
 }
 void attack() {}
-void fire() {}
-void jump() {}
+// TODO: Start an attack and finish attack a few seconds later.
+  // Why: the attack is an action with its own timing and rules.
+// Need to figure out how to make enemies interact with player
+// Get enemies to attack only when it is allowed
 
 
 }
