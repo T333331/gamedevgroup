@@ -1,5 +1,7 @@
 // Zoe Abraham
 
+import gifAnimation.*;
+
 int WorldW = 2000; 
 int WorldH = 1500;  // World width and height might change later
 
