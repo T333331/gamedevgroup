@@ -8,8 +8,6 @@ PImage p1;
 Player(int startX, int startY) { // the code wouldnt run without the startX and startY or smth
 x = startX;
 y = startY; // position
-//w = 50;
-//h = 50; // there was a copy of width and height
 w = 50;
 h = 50;
 health = 3;
