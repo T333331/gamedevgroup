@@ -5,7 +5,7 @@ class Player {
 int x,y,w,h,health;
 //PImage p1;
 
-Player(int startX, int StartY) { // the code wouldnt run without the startX and startY or smth
+Player(int startX, int startY) { // the code wouldnt run without the startX and startY or smth
 x = startX;
 y = startY; // position
 //w = 50;
