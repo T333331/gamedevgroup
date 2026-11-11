@@ -11,7 +11,7 @@ this.y=y;
 w = 50;
 h = 50;
 health = 3;
-p1 = loadImage("Jello.gif");
+e1 = loadImage("Jello.gif");
 }
 
 // Member methods
