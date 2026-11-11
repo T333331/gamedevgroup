@@ -31,7 +31,7 @@ translate(-CamX, -CamY); // slide the world oposite to the camera(Cam) movement 
 //just check processing.org- the description for translate is rlly long.
 
 //drawGrid(); // only here to ensure the camera is actually scrolling- remove this once we have a background in place.
-p1.diplay(); // Do not remove this this is actually for drawing the player on the screen
+p1.display(); // Do not remove this this is actually for drawing the player on the screen
 
 } //end of void draw
 
