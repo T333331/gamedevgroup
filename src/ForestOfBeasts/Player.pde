@@ -10,7 +10,7 @@ x = startX;
 y = startY; // position
 w = 50;
 h = 50;
-health = 3;
+health = 5;
 p1 = loadImage("Sprite in 128 pixels.png");
 }
 
