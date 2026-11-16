@@ -3,8 +3,6 @@ class Enemy{
  // Member Variable
  int x,y,w,h,health;
  PImage e1;
-}
-
 
  // Constructor
 Enemy(int x, int y) {
@@ -13,21 +11,19 @@ this.y=y;
 w = 50;
 h = 50;
 health = 3;
-PImage[Jello.gif] animation;
-Gif loopingGif;
-Gif nonLoopingGif;
-boolean pause = false;
+e1 = loadImage("Jello.gif");
 }
 
 // Member methods
 void display() {
-background(255 / (float)height * mouseY);
-  image(loopingGif, 10, height / 2 - loopingGif.height / 2);
-  image(nonLoopingGif, width/2 - nonLoopingGif.width/2, height / 2 - nonLoopingGif.height / 2);
-  image(animation[(int) (animation.length / (float) (width) * mouseX)], width - 10 - animation[0].width, height / 2 - animation[0].height / 2);
+// TODO: replace circle with gif somehow :P
+// image(e1,x,y);
+ fill(33,222,23);
+ ellipse(x,y,w,h);
 }
-
 void attack() {}
+void fire() {}
+void jump() {}
 // TODO: Start an attack and finish attack a few seconds later.
   // Why: the attack is an action with its own timing and rules.
 // Need to figure out how to make enemies interact with player
