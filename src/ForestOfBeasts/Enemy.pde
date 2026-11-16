@@ -1,33 +1,46 @@
 // Gideon Gordon
-class Enemy{
- // Member Variable
- int x,y,w,h,health;
- PImage e1;
+class Enemy {
+  // Member Variables
+  int x, y, w, h, health;
+  PImage e1;
+  boolean dead = false;
 
- // Constructor
-Enemy(int x, int y) {
-this.x=x;
-this.y=y;
-w = 50;
-h = 50;
-health = 3;
-e1 = loadImage("Jello.gif");
-}
+  // Constructor
+  Enemy(int x, int y) {
+    this.x = x;
+    this.y = y;
+    w = 50;
+    h = 50;
+    health = 3;
 
-// Member methods
-void display() {
-// TODO: replace circle with gif somehow :P
-// image(e1,x,y);
- fill(33,222,23);
- ellipse(x,y,w,h);
-}
-void attack() {}
-void fire() {}
-void jump() {}
-// TODO: Start an attack and finish attack a few seconds later.
-  // Why: the attack is an action with its own timing and rules.
-// Need to figure out how to make enemies interact with player
-// Get enemies to attack only when it is allowed
+    // Load animated GIF
+    e1 = loadImage("Jello.gif");
+  }
 
+  // Member methods
+  void display() {
+    if (health <= 0) {
+      death();
+      return;
+    }
 
+    // Display animated GIF
+    image(e1, x, y, w, h);
+  }
+
+  void attack() {}
+  void fire() {}
+  void jump() {}
+
+  void death() {
+    if (!dead) {
+      dead = true;
+
+      // 1 in 5 chance to drop an item
+      if (random(5) < 1) {
+        Item dropped = new Item(x, y);
+        // Add item to your game's item list here
+      }
+    }
+  }
 }
