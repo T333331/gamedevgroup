@@ -207,4 +207,5 @@ void keyReleased() {
 }
 
 void mousePressed() {
+isStarted = true;
 }
